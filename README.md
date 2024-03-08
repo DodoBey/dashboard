@@ -1,9 +1,27 @@
-# .
+### Dashboard
 
-This template should help get you started developing with Vue 3 in Vite.
+**This is my first complete app and is going to be developed by using Vue.js.**
+
+- [x] Boilarplate
+- [ ] Welcome Page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
 ## Recommended IDE Setup
-
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
 ## Customize configuration
