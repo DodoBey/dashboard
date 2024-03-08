@@ -1,8 +1,8 @@
 ### Dashboard
 
-**This is my first complete app and is going to be developed by using Vue.js.**
+**This is my personal dashboard app and it is built with Vue.js.**
 
-- [x] Boilarplate
+- [x] Boilerplate
 - [ ] Welcome Page
 - [ ] Setup Page
 - [ ] Common Components Creation
