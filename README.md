@@ -3,7 +3,7 @@
 **This is my personal dashboard app and it is built with Vue.js.**
 
 - [x] Boilerplate
-- [ ] Welcome Page
+- [x] Landing Page
 - [ ] Setup Page
 - [ ] Common Components Creation
 - [ ] Styling Solution?
