@@ -8,8 +8,7 @@ const setupitems = [
   { id: 7, value: "Flight Tracker" },
   { id: 8, value: "Google Search" },
   { id: 9, value: "Govee Light Control" },
-  { id: 10, value: "Instagram Feed" },
-  { id: 11, value: "To Do List" },
+  { id: 10, value: "To Do List" },
 ];
 
 export default setupitems;
