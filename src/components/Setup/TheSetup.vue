@@ -30,8 +30,6 @@ import { store } from "@/store/store.js";
       </v-card-actions>
     </v-card>
   </div>
-
-  <p>{{ store.selectedSetupItems }}</p>
 </template>
 
 <style scoped>
