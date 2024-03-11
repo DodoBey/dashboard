@@ -22,6 +22,9 @@
 
 **---------------------------------------------------------**
 
+<img width="1118" alt="idea" src="https://github.com/DodoBey/dashboard/assets/77416196/8032c8a8-fbec-412e-ad0e-dc5253a49a5a">
+
+
 # Vuetify (Default)
 
 This is the official scaffolding tool for Vuetify, designed to give you a head start in building your new Vuetify application. It sets up a base template with all the necessary configurations and standard directory structure, enabling you to begin development without the hassle of setting up the project from scratch.
