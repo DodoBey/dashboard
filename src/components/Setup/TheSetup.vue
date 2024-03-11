@@ -5,13 +5,13 @@ import { store } from "@/store/store.js";
 
 <template>
   <div
-    class="h-screen w-100 m-auto d-flex flex-column justify-center align-center"
+    class="h-100 w-100 m-auto d-flex flex-column justify-center align-center"
   >
     <v-card variant="tonal" class="rounded-lg font-weight-bold">
       <v-card-item>
         <v-card-title class="font-weight-bold">Setup</v-card-title>
 
-        <v-card-subtitle class="font-weight-"
+        <v-card-subtitle class="font-weight-medium"
           >Select the options you want to use from the list</v-card-subtitle
         >
       </v-card-item>
@@ -25,6 +25,7 @@ import { store } from "@/store/store.js";
           rounded="lg"
           variant="elevated"
           v-bind:disabled="store.selectedSetupItems.length === 0"
+          to="/setcredentials"
           >Continue</v-btn
         >
       </v-card-actions>

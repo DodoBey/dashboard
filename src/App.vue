@@ -1,5 +1,5 @@
 <template>
-  <div class="outer-container rounded-xl bg-blue-grey-lighten-2">
+  <div class="outer-container h-screen rounded-xl bg-blue-grey-lighten-2">
     <router-view></router-view>
   </div>
 </template>
